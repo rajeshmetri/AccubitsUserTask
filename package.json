@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-restapi-mongodb",
+  "version": "1.0.0",
+  "description": "NodeJs-RestApis-MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-RestAPIs-MongoDB"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "binary": "^0.3.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.4",
+    "date-and-time": "^0.9.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.21",
+    "ng2-validation": "^4.2.0",
+    "npm": "^5.8.0",
+    "strict-password-generator": "^1.1.2"
+  }
+}
